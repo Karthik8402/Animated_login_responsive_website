@@ -122,6 +122,11 @@ button{
 .register-link p a:hover{
     text-decoration: underline;
 }
+.footer{
+    color="#fff";
+    font-size="18px";
+    text-align="center";
+}
 @media (max-width: 360px) {
     .login-box{
         width: 100%;
