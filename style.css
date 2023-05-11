@@ -128,6 +128,8 @@ button{
     text-align="center";
     position ="absolute";
     bottom ="0";
+    font-size+"18px";
+    text-align="center";
 }
 @media (max-width: 360px) {
     .login-box{
